@@ -24,7 +24,7 @@ git clone https://github.com/cbbgs/tcs.git
 git pull https://github.com/cbbgs/tcs.git
 ```
 
-## 长传到github
+## 上传到github
 注意，上传到githup时一定要是pull或者clone下来的项目，再上传回去才可以
 ```
 git push https://github.com/cbbgs/tcs.git
